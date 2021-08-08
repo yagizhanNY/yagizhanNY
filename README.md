@@ -11,7 +11,7 @@
 <br/>
 
 ### Languages and Tools
-[<img align="left" alt="python" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"/>](https://www.python.org/)
+[<img align="left" alt="python" __blank width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"/>](https://www.python.org/)
 [<img style="margin-left: 10px;" align="left" alt="netcore" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png"/>](https://dotnet.microsoft.com/)
 [<img style="margin-left: 10px;" align="left" alt="angular" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-256.png"/>](https://angular.io/)
 [<img style="margin-left: 10px;" align="left" alt="javascript" width="22px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>](https://www.javascript.com/)
