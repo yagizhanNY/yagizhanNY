@@ -3,7 +3,7 @@
 ## I'm a Software Engineer!
 
 - 👔 I'm currently working for [Kontrolmatik Technologies](https://kontrolmatik.com)!
-- 🪄 I love to do magic with softwares.
+- ✨ I love to do magic with softwares.
 - 📈 I continue to improve myself.
 
 ### Connect with me:
