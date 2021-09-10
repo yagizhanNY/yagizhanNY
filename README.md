@@ -23,7 +23,7 @@
 [<img style="margin-left: 10px;" align="left" alt="visual-code" width="22px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>](https://code.visualstudio.com/)
 [<img style="margin-left: 10px;" align="left" alt="visual-studio" width="22px" src="https://iconarchive.com/download/i98390/dakirby309/simply-styled/Microsoft-Visual-Studio.ico"/>](https://visualstudio.microsoft.com/)
 [<img style="margin-left: 10px;" align="left" alt="postgresql" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postgresql.png"/>](https://www.postgresql.org/)
-
+[<img style="margin-left: 10px;" align="left" alt="docker" width="22px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/>](https://www.docker.com/)
 <br/>
 
 ---
