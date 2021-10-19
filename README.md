@@ -1,8 +1,8 @@
 ### Hi there, I'm Yağızhan 👋
 
-## I'm a Software Engineer!
+## I'm a Software Developer!
 
-- 👔 I'm currently working for [Kontrolmatik Technologies](https://kontrolmatik.com)!
+- 👔 I'm currently working for [Siemens](www.siemens.com/ingenuityforlife)!
 - ✨ I love to do magic with softwares.
 - 📈 I continue to improve myself.
 
