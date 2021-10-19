@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer!
 
-- 👔 I'm currently working for [Siemens](https://www.siemens.com/ingenuityforlife) as Software Developer!
+- 👔 I'm currently working for [Siemens](https://www.siemens.com/ingenuityforlife) as a Software Developer!
 - ✨ I love to do magic with softwares.
 - 📈 I continue to improve myself.
 
