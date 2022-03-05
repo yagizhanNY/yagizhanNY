@@ -29,3 +29,7 @@
 ---
 
 <img align="left" alt="yagizhanNY's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yagizhanNY&show_icons=true&hide_border=true" />
+
+---
+
+![](https://komarev.com/ghpvc/?username=yagizhanNY)
