@@ -20,9 +20,7 @@
 [<img style="margin-left: 10px;" align="left" alt="javascript" width="22px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"/>](https://www.javascript.com/)
 [<img style="margin-left: 10px;" align="left" alt="typescript" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"/>](https://www.typescriptlang.org/)
 [<img style="margin-left: 10px;" align="left" alt="nodejs" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png"/>](https://nodejs.org/en/)
-[<img style="margin-left: 10px;" align="left" alt="visual-code" width="22px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"/>](https://code.visualstudio.com/)
-[<img style="margin-left: 10px;" align="left" alt="visual-studio" width="22px" src="https://iconarchive.com/download/i98390/dakirby309/simply-styled/Microsoft-Visual-Studio.ico"/>](https://visualstudio.microsoft.com/)
-[<img style="margin-left: 10px;" align="left" alt="postgresql" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/postgresql.png"/>](https://www.postgresql.org/)
+[<img style="margin-left: 10px;" align="left" alt="postgresql" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png"/>](https://www.postgresql.org/)
 [<img style="margin-left: 10px;" align="left" alt="docker" width="22px" src="https://www.testautomatisierung.org/wp-content/uploads/14098888813_bec60d595d_o.png"/>](https://www.docker.com/)
 <br/>
 
