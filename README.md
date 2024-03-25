@@ -1,4 +1,4 @@
-Hey, I'm Yagizhan 👋 
+**Hey, I'm Yagizhan** 👋 
 
 I'm a software engineer based in Istanbul, Turkey. I'm currently helping Siemens to make great apps.
 
