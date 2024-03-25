@@ -2,8 +2,8 @@
 
 I'm a software engineer based in Istanbul, Turkey. I'm currently helping Siemens to make great apps.
 
-[My personal website &nearr;]("https://yagizhan.dev")<br />
-[Curriculum vitae &nearr;]("https://read.cv/yagizhan")
+[My personal website &nearr;](https://yagizhan.dev)<br />
+[Curriculum vitae &nearr;](https://read.cv/yagizhan)
 
 ## 📫 How to reach me
 
