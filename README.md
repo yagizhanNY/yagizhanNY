@@ -4,10 +4,11 @@ I'm a software engineer based in Istanbul, Turkey. I'm currently relocating to B
 
 [My personal website &nearr;](https://yagizhan.dev)<br />
 [Curriculum vitae &nearr;](https://read.cv/yagizhan)<br />
-[E-mail &nearr;](mailto:yagizhanyakali@gmail.com)
+[Blog &nearr;](https://medium.com/@yagizhanyakali)
 
 ## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/yagizhanyakali/)
+- [E-mail](mailto:yagizhanyakali@gmail.com)
 
 **Thanks for visiting my profile!**
